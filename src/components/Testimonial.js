@@ -156,7 +156,7 @@ const TestimonialNavContainer = styled.div`
   }
 `;
 
-export default function TestimonialSection() {
+export default function Testimonial() {
   const [activeItem, setActiveItem] = useState(1);
 
   const handleNextBtnClick = () => {

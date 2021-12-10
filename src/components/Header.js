@@ -41,7 +41,7 @@ const ImageContainer = styled.div`
   }
 `;
 
-export default function HeaderSection() {
+export default function Header() {
   return (
     <StyledHeaderSection>
       <TextContainer>

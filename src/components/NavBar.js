@@ -54,7 +54,7 @@ const CTAsBox = styled.div`
   }
 `;
 
-export default function TopNavBar({ setIsMobileNavOpen }) {
+export default function NavBar({ setIsMobileNavOpen }) {
   return (
     <StyledTopNavBar>
       <LogoContainer>

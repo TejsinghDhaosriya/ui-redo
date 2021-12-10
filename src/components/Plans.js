@@ -121,7 +121,7 @@ const standardPlan = [
 
 const premiumPlan = standardPlan.concat("Get New Features");
 
-export default function PricingPlansSection() {
+export default function Plans() {
   return (
     <StyledPricingPlansSection>
       <PricingPlanSectionHeadingBox>
