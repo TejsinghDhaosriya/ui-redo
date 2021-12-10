@@ -10,10 +10,12 @@ const StyledTestimonialSection = styled.section`
 `;
 
 const SectionHeadingBox = styled.div`
+  & h2 {
+    font-size: 2rem;
+  }
   text-align: center;
   max-width: 550px;
   margin: 0 auto;
-
   & p {
     margin: 1.25rem 0 0;
   }

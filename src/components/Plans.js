@@ -103,6 +103,9 @@ const PricingPlanSectionHeadingBox = styled.div`
   & p {
     margin: 1.25rem 0 3.5rem;
   }
+  & h2 {
+    font-size: 2rem;
+  }
 `;
 const freePlan = [
   "Unlimited Bandwidth",
